@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
+	//1.To enter the length (in meters), width (in meters) of a rectangular carpet and carpet price per square  meter.
+	//The  program  should  compute  and  display  its  area,  perimeter  and  cost  of  the carpet.
+
 	double	length, width, price, area, perimeter, totalprice;
 
 	cout << "Enter the length in meters: ";
