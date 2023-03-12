@@ -24,4 +24,6 @@ int main()
 	cout << "Area: " << area << endl;
 	cout << "Perimeter: " << perimeter << endl;
 	cout << "Total cose: " << totalprice << endl;
+
+	return 0;
 }
